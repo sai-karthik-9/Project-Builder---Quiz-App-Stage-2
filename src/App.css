@@ -1,0 +1,78 @@
+
+*{
+  padding: 0%;
+}
+.homepageContainer{
+  text-align: center;
+  margin-top: 25%;
+  color: white;
+  font-size: 4rem;
+}
+
+.playbtn{
+  color: white;
+  font-size: 4rem;
+  border-radius: 50px;
+  cursor: pointer;
+  width: 35rem;
+  background-color: rgb(192, 47, 90);
+  border: 2px solid white;
+  padding: 30px;
+}
+
+.container{
+  margin: 4rem auto 0 auto;
+  width: 70%;
+  background-color: #f8f8f8;
+  padding: 4rem;
+}
+
+h2{
+  text-align: center;
+  font-size: 4rem;
+}
+
+span{
+  font-size: 3rem;
+}
+.optionBox{
+  display: inline-block;
+  width: 60%;
+  text-align: center;
+}
+
+.option{
+  margin-right: 4%;
+  border: 5px solid rgb(27, 97, 92);
+  background-color: rgb(41, 160, 127);
+  border-radius: 30px;
+  font-size: 4rem;
+  cursor: pointer;
+  padding: 20px;
+}
+
+.buttonBox{
+  text-align: center;
+}
+
+.btn{
+  margin-right: 4rem;
+  font-size: 3rem;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 15px 10px;
+  margin-bottom: 3%;
+  width: 15rem;
+}
+
+.pbtn{
+  background-color: rgb(72, 185, 229);
+}
+
+.nbtn{
+  background-color: rgb(41, 190, 151);
+}
+
+.qbtn{
+  background-color: rgb(159, 24, 78);
+}
